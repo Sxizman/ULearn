@@ -1,0 +1,9 @@
+D:\programming\c#\ULearnProject\Pluralize\bin\Debug\rubles.txt
+D:\programming\c#\ULearnProject\Pluralize\bin\Debug\Pluralize.exe.config
+D:\programming\c#\ULearnProject\Pluralize\bin\Debug\Pluralize.exe
+D:\programming\c#\ULearnProject\Pluralize\bin\Debug\Pluralize.pdb
+D:\programming\c#\ULearnProject\Pluralize\obj\Debug\Pluralize.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Pluralize\obj\Debug\Pluralize.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Pluralize\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Pluralize\obj\Debug\Pluralize.exe
+D:\programming\c#\ULearnProject\Pluralize\obj\Debug\Pluralize.pdb

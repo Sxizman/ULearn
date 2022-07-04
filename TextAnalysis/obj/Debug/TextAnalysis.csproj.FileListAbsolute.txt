@@ -1,0 +1,14 @@
+D:\programming\c#\ULearnProject\TextAnalysis\bin\Debug\HarryPotterText.txt
+D:\programming\c#\ULearnProject\TextAnalysis\bin\Debug\TextAnalysis.exe.config
+D:\programming\c#\ULearnProject\TextAnalysis\bin\Debug\TextAnalysis.exe
+D:\programming\c#\ULearnProject\TextAnalysis\bin\Debug\TextAnalysis.pdb
+D:\programming\c#\ULearnProject\TextAnalysis\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\TextAnalysis\bin\Debug\nunitlite.dll
+D:\programming\c#\ULearnProject\TextAnalysis\obj\Debug\TextAnalysis.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\TextAnalysis\obj\Debug\TextAnalysis.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\TextAnalysis\obj\Debug\TextAnalysis.Properties.Resources.resources
+D:\programming\c#\ULearnProject\TextAnalysis\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+D:\programming\c#\ULearnProject\TextAnalysis\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\TextAnalysis\obj\Debug\TextAnalysis.csproj.CopyComplete
+D:\programming\c#\ULearnProject\TextAnalysis\obj\Debug\TextAnalysis.exe
+D:\programming\c#\ULearnProject\TextAnalysis\obj\Debug\TextAnalysis.pdb

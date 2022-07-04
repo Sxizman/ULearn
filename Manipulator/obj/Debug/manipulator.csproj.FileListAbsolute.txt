@@ -1,0 +1,12 @@
+D:\programming\c#\ULearnProject\Manipulator\bin\Debug\Manipulator.exe.config
+D:\programming\c#\ULearnProject\Manipulator\bin\Debug\Manipulator.exe
+D:\programming\c#\ULearnProject\Manipulator\bin\Debug\Manipulator.pdb
+D:\programming\c#\ULearnProject\Manipulator\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\Manipulator\obj\Debug\manipulator.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Manipulator\obj\Debug\manipulator.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Manipulator\obj\Debug\Manipulation.Properties.Resources.resources
+D:\programming\c#\ULearnProject\Manipulator\obj\Debug\manipulator.csproj.GenerateResource.cache
+D:\programming\c#\ULearnProject\Manipulator\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Manipulator\obj\Debug\manipulator.csproj.CopyComplete
+D:\programming\c#\ULearnProject\Manipulator\obj\Debug\Manipulator.exe
+D:\programming\c#\ULearnProject\Manipulator\obj\Debug\Manipulator.pdb

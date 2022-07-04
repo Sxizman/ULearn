@@ -1,0 +1,10 @@
+D:\programming\c#\ULearnProject\Billiard\bin\Debug\Billiards.exe.config
+D:\programming\c#\ULearnProject\Billiard\bin\Debug\Billiards.exe
+D:\programming\c#\ULearnProject\Billiard\bin\Debug\Billiards.pdb
+D:\programming\c#\ULearnProject\Billiard\bin\Debug\TestingRoom.dll
+D:\programming\c#\ULearnProject\Billiard\obj\Debug\Billiards.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Billiard\obj\Debug\Billiards.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Billiard\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Billiard\obj\Debug\Billiards.csproj.CopyComplete
+D:\programming\c#\ULearnProject\Billiard\obj\Debug\Billiards.exe
+D:\programming\c#\ULearnProject\Billiard\obj\Debug\Billiards.pdb

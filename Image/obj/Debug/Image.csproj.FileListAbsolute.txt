@@ -1,0 +1,9 @@
+D:\programming\c#\ULearnProject\Image\bin\Debug\eurobot.bmp
+D:\programming\c#\ULearnProject\Image\bin\Debug\Recognizer.exe.config
+D:\programming\c#\ULearnProject\Image\bin\Debug\Recognizer.exe
+D:\programming\c#\ULearnProject\Image\bin\Debug\Recognizer.pdb
+D:\programming\c#\ULearnProject\Image\obj\Debug\Image.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Image\obj\Debug\Image.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Image\obj\Debug\Recognizer.exe
+D:\programming\c#\ULearnProject\Image\obj\Debug\Recognizer.pdb

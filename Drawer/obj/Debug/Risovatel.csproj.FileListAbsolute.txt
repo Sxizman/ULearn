@@ -1,0 +1,12 @@
+D:\programming\c#\ULearnProject\Drawer\bin\Debug\RefactorMe.exe.config
+D:\programming\c#\ULearnProject\Drawer\bin\Debug\RefactorMe.exe
+D:\programming\c#\ULearnProject\Drawer\bin\Debug\RefactorMe.pdb
+D:\programming\c#\ULearnProject\Drawer\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\Drawer\obj\Debug\Risovatel.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Drawer\obj\Debug\Risovatel.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Drawer\obj\Debug\RefactorMe.Properties.Resources.resources
+D:\programming\c#\ULearnProject\Drawer\obj\Debug\Risovatel.csproj.GenerateResource.cache
+D:\programming\c#\ULearnProject\Drawer\obj\Debug\Risovatel.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Drawer\obj\Debug\Risovatel.csproj.CopyComplete
+D:\programming\c#\ULearnProject\Drawer\obj\Debug\RefactorMe.exe
+D:\programming\c#\ULearnProject\Drawer\obj\Debug\RefactorMe.pdb

@@ -1,0 +1,10 @@
+D:\programming\c#\ULearnProject\Rectangles\bin\Debug\Rectangles.exe.config
+D:\programming\c#\ULearnProject\Rectangles\bin\Debug\Rectangles.exe
+D:\programming\c#\ULearnProject\Rectangles\bin\Debug\Rectangles.pdb
+D:\programming\c#\ULearnProject\Rectangles\bin\Debug\TestingRoom.dll
+D:\programming\c#\ULearnProject\Rectangles\obj\Debug\Rectangles.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Rectangles\obj\Debug\Rectangles.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Rectangles\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Rectangles\obj\Debug\Rectangles.csproj.CopyComplete
+D:\programming\c#\ULearnProject\Rectangles\obj\Debug\Rectangles.exe
+D:\programming\c#\ULearnProject\Rectangles\obj\Debug\Rectangles.pdb

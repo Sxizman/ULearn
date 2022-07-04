@@ -1,0 +1,15 @@
+D:\programming\c#\ULearnProject\Percents\bin\Debug\net6.0\Percents.exe
+D:\programming\c#\ULearnProject\Percents\bin\Debug\net6.0\Percents.deps.json
+D:\programming\c#\ULearnProject\Percents\bin\Debug\net6.0\Percents.runtimeconfig.json
+D:\programming\c#\ULearnProject\Percents\bin\Debug\net6.0\Percents.dll
+D:\programming\c#\ULearnProject\Percents\bin\Debug\net6.0\Percents.pdb
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\Percents.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\Percents.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\Percents.AssemblyInfoInputs.cache
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\Percents.AssemblyInfo.cs
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\Percents.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\Percents.dll
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\refint\Percents.dll
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\Percents.pdb
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\Percents.genruntimeconfig.cache
+D:\programming\c#\ULearnProject\Percents\obj\Debug\net6.0\ref\Percents.dll

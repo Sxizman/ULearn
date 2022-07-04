@@ -1,0 +1,12 @@
+D:\programming\c#\ULearnProject\Names\bin\Debug\names.txt
+D:\programming\c#\ULearnProject\Names\bin\Debug\Names.exe.config
+D:\programming\c#\ULearnProject\Names\bin\Debug\Names.exe
+D:\programming\c#\ULearnProject\Names\bin\Debug\Names.pdb
+D:\programming\c#\ULearnProject\Names\bin\Debug\ZedGraph.dll
+D:\programming\c#\ULearnProject\Names\bin\Debug\ZedGraph.xml
+D:\programming\c#\ULearnProject\Names\obj\Debug\Names.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Names\obj\Debug\Names.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Names\obj\Debug\Names.csproj.CopyComplete
+D:\programming\c#\ULearnProject\Names\obj\Debug\Names.exe
+D:\programming\c#\ULearnProject\Names\obj\Debug\Names.pdb
