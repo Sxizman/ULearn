@@ -1,0 +1,12 @@
+D:\programming\c#\ULearnProject\Geometry\bin\Debug\net6.0\Geometry.deps.json
+D:\programming\c#\ULearnProject\Geometry\bin\Debug\net6.0\Geometry.dll
+D:\programming\c#\ULearnProject\Geometry\bin\Debug\net6.0\Geometry.pdb
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\net6.0\Geometry.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\net6.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfoInputs.cache
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfo.cs
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\net6.0\Geometry.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\net6.0\Geometry.dll
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\net6.0\refint\Geometry.dll
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\net6.0\Geometry.pdb
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\net6.0\ref\Geometry.dll

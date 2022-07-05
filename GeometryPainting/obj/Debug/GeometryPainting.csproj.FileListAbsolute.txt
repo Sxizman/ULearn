@@ -1,0 +1,13 @@
+D:\programming\c#\ULearnProject\GeometryPainting\obj\Debug\GeometryPainting.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\GeometryPainting\obj\Debug\GeometryPainting.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\GeometryPainting\obj\Debug\GeometryPainting.Properties.Resources.resources
+D:\programming\c#\ULearnProject\GeometryPainting\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+D:\programming\c#\ULearnProject\GeometryPainting\obj\Debug\GeometryPainting.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\GeometryPainting\bin\Debug\GeometryPainting.exe.config
+D:\programming\c#\ULearnProject\GeometryPainting\bin\Debug\GeometryPainting.exe
+D:\programming\c#\ULearnProject\GeometryPainting\bin\Debug\GeometryPainting.pdb
+D:\programming\c#\ULearnProject\GeometryPainting\bin\Debug\Geometry.dll
+D:\programming\c#\ULearnProject\GeometryPainting\bin\Debug\Geometry.pdb
+D:\programming\c#\ULearnProject\GeometryPainting\obj\Debug\GeometryPainting.csproj.CopyComplete
+D:\programming\c#\ULearnProject\GeometryPainting\obj\Debug\GeometryPainting.exe
+D:\programming\c#\ULearnProject\GeometryPainting\obj\Debug\GeometryPainting.pdb

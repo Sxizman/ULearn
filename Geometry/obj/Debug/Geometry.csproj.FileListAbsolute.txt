@@ -1,0 +1,6 @@
+D:\programming\c#\ULearnProject\Geometry\bin\Debug\Geometry.dll
+D:\programming\c#\ULearnProject\Geometry\bin\Debug\Geometry.pdb
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\Geometry.dll
+D:\programming\c#\ULearnProject\Geometry\obj\Debug\Geometry.pdb
