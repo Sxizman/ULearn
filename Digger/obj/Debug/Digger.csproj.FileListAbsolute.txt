@@ -1,0 +1,17 @@
+D:\programming\c#\ULearnProject\Digger\bin\Debug\Images\Digger.png
+D:\programming\c#\ULearnProject\Digger\bin\Debug\Images\Gold.png
+D:\programming\c#\ULearnProject\Digger\bin\Debug\Images\Monster.png
+D:\programming\c#\ULearnProject\Digger\bin\Debug\Images\Sack.png
+D:\programming\c#\ULearnProject\Digger\bin\Debug\Images\Terrain.png
+D:\programming\c#\ULearnProject\Digger\bin\Debug\11-digger.exe.config
+D:\programming\c#\ULearnProject\Digger\bin\Debug\11-digger.exe
+D:\programming\c#\ULearnProject\Digger\bin\Debug\11-digger.pdb
+D:\programming\c#\ULearnProject\Digger\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\Digger\obj\Debug\Digger.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Digger\obj\Debug\Digger.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Digger\obj\Debug\Digger.Properties.Resources.resources
+D:\programming\c#\ULearnProject\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+D:\programming\c#\ULearnProject\Digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Digger\obj\Debug\Digger.csproj.CopyComplete
+D:\programming\c#\ULearnProject\Digger\obj\Debug\11-digger.exe
+D:\programming\c#\ULearnProject\Digger\obj\Debug\11-digger.pdb
