@@ -1,0 +1,14 @@
+D:\programming\c#\ULearnProject\StructBenchmarking\bin\Debug\StructBenchmarking.exe.config
+D:\programming\c#\ULearnProject\StructBenchmarking\bin\Debug\StructBenchmarking.exe
+D:\programming\c#\ULearnProject\StructBenchmarking\bin\Debug\StructBenchmarking.pdb
+D:\programming\c#\ULearnProject\StructBenchmarking\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\StructBenchmarking\bin\Debug\ZedGraph.dll
+D:\programming\c#\ULearnProject\StructBenchmarking\bin\Debug\ZedGraph.xml
+D:\programming\c#\ULearnProject\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\StructBenchmarking\obj\Debug\StructBenchmarking.Properties.Resources.resources
+D:\programming\c#\ULearnProject\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.GenerateResource.cache
+D:\programming\c#\ULearnProject\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.CopyComplete
+D:\programming\c#\ULearnProject\StructBenchmarking\obj\Debug\StructBenchmarking.exe
+D:\programming\c#\ULearnProject\StructBenchmarking\obj\Debug\StructBenchmarking.pdb
