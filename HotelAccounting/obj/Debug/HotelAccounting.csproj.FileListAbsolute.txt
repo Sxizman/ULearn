@@ -1,0 +1,15 @@
+D:\programming\c#\ULearnProject\HotelAccounting\bin\Debug\HotelAccounting.exe.config
+D:\programming\c#\ULearnProject\HotelAccounting\bin\Debug\HotelAccounting.exe
+D:\programming\c#\ULearnProject\HotelAccounting\bin\Debug\HotelAccounting.pdb
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\MainWindow.g.cs
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting_MarkupCompile.cache
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting_MarkupCompile.lref
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\MainWindow.baml
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting.g.resources
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting.Properties.Resources.resources
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting.exe
+D:\programming\c#\ULearnProject\HotelAccounting\obj\Debug\HotelAccounting.pdb
