@@ -199,44 +199,6 @@ namespace Digger
             return (0, 0);
         }
 
-        private int MinPathLengthToPlayer(int x, int y)
-        {
-            if (!CanMoveTo(x, y))
-                return int.MaxValue;
-
-            var distanceFromMonster = new int[Game.MapWidth, Game.MapHeight];
-            distanceFromMonster[x, y] = 1;
-
-            var visitedCellsList = new List<(int, int)> { (x, y) };
-            while (visitedCellsList.Count > 0)
-            {
-                var newVisitedCellsList = new List<(int, int)>();
-                foreach (var cell in visitedCellsList)
-                {
-                    var cellDistance = distanceFromMonster[cell.Item1, cell.Item2];
-                    if (Game.Map[cell.Item1, cell.Item2] is Player)
-                        return cellDistance - 1;
-
-                    HandleCell(cell.Item1 - 1, cell.Item2);
-                    HandleCell(cell.Item1 + 1, cell.Item2);
-                    HandleCell(cell.Item1, cell.Item2 - 1);
-                    HandleCell(cell.Item1, cell.Item2 + 1);
-
-                    void HandleCell(int newCellX, int newCellY)
-                    {
-                        if (CanMoveTo(newCellX, newCellY) && distanceFromMonster[newCellX, newCellY] == 0)
-                        {
-                            distanceFromMonster[newCellX, newCellY] = cellDistance + 1;
-                            newVisitedCellsList.Add((newCellX, newCellY));
-                        }
-                    }
-                }
-                visitedCellsList = newVisitedCellsList;
-            }
-
-            return int.MaxValue;
-        }
-
         private bool CanMoveTo(int x, int y)
         {
             return (x >= 0 && x < Game.MapWidth && y >= 0 && y < Game.MapHeight) &&

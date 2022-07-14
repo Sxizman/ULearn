@@ -1,0 +1,10 @@
+D:\programming\c#\ULearnProject\Clones\bin\Debug\Clones.exe.config
+D:\programming\c#\ULearnProject\Clones\bin\Debug\Clones.exe
+D:\programming\c#\ULearnProject\Clones\bin\Debug\Clones.pdb
+D:\programming\c#\ULearnProject\Clones\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\Clones\obj\Debug\Clones.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Clones\obj\Debug\Clones.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Clones\obj\Debug\Clones.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Clones\obj\Debug\Clones.csproj.CopyComplete
+D:\programming\c#\ULearnProject\Clones\obj\Debug\Clones.exe
+D:\programming\c#\ULearnProject\Clones\obj\Debug\Clones.pdb

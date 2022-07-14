@@ -1,0 +1,12 @@
+D:\programming\c#\ULearnProject\LimitedSizeStack\bin\Debug\TodoApplication.exe.config
+D:\programming\c#\ULearnProject\LimitedSizeStack\bin\Debug\TodoApplication.exe
+D:\programming\c#\ULearnProject\LimitedSizeStack\bin\Debug\TodoApplication.pdb
+D:\programming\c#\ULearnProject\LimitedSizeStack\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\LimitedSizeStack\obj\Debug\LimitedSizeStack.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\LimitedSizeStack\obj\Debug\LimitedSizeStack.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\LimitedSizeStack\obj\Debug\TodoApplication.Properties.Resources.resources
+D:\programming\c#\ULearnProject\LimitedSizeStack\obj\Debug\LimitedSizeStack.csproj.GenerateResource.cache
+D:\programming\c#\ULearnProject\LimitedSizeStack\obj\Debug\LimitedSizeStack.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\LimitedSizeStack\obj\Debug\LimitedSizeStack.csproj.CopyComplete
+D:\programming\c#\ULearnProject\LimitedSizeStack\obj\Debug\TodoApplication.exe
+D:\programming\c#\ULearnProject\LimitedSizeStack\obj\Debug\TodoApplication.pdb
