@@ -1,0 +1,11 @@
+D:\programming\c#\ULearnProject\YieldReturnSmooth\bin\Debug\yield.exe.config
+D:\programming\c#\ULearnProject\YieldReturnSmooth\bin\Debug\yield.exe
+D:\programming\c#\ULearnProject\YieldReturnSmooth\bin\Debug\yield.pdb
+D:\programming\c#\ULearnProject\YieldReturnSmooth\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\YieldReturnSmooth\bin\Debug\ZedGraph.dll
+D:\programming\c#\ULearnProject\YieldReturnSmooth\obj\Debug\yield-return-smooth.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\YieldReturnSmooth\obj\Debug\yield-return-smooth.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\YieldReturnSmooth\obj\Debug\yield-return-smooth.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\YieldReturnSmooth\obj\Debug\yield-return-smooth.csproj.CopyComplete
+D:\programming\c#\ULearnProject\YieldReturnSmooth\obj\Debug\yield.exe
+D:\programming\c#\ULearnProject\YieldReturnSmooth\obj\Debug\yield.pdb

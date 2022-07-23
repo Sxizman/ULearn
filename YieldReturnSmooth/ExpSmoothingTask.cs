@@ -6,8 +6,15 @@ namespace yield
 	{
 		public static IEnumerable<DataPoint> SmoothExponentialy(this IEnumerable<DataPoint> data, double alpha)
 		{
-			//Fix me!
-			return data;
+			var smoothedY = double.NaN;
+			foreach (var point in data)
+            {
+				if (double.IsNaN(smoothedY))
+					smoothedY = point.OriginalY;
+				else
+					smoothedY = point.OriginalY * alpha + smoothedY * (1 - alpha);
+				yield return point.WithExpSmoothedY(smoothedY);
+            }
 		}
 	}
 }

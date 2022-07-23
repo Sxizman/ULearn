@@ -1,0 +1,11 @@
+D:\programming\c#\ULearnProject\Ghosts\obj\Debug\hashes-ghosts.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\Ghosts\obj\Debug\hashes-ghosts.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\Ghosts\obj\Debug\hashes-ghosts.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\Ghosts\bin\Debug\ghost.exe.config
+D:\programming\c#\ULearnProject\Ghosts\bin\Debug\ghost.exe
+D:\programming\c#\ULearnProject\Ghosts\bin\Debug\ghost.pdb
+D:\programming\c#\ULearnProject\Ghosts\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\Ghosts\bin\Debug\nunitlite.dll
+D:\programming\c#\ULearnProject\Ghosts\obj\Debug\hashes-ghosts.csproj.CopyComplete
+D:\programming\c#\ULearnProject\Ghosts\obj\Debug\ghost.exe
+D:\programming\c#\ULearnProject\Ghosts\obj\Debug\ghost.pdb

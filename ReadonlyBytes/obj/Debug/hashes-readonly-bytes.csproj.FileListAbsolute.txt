@@ -1,0 +1,11 @@
+D:\programming\c#\ULearnProject\ReadonlyBytes\obj\Debug\hashes-readonly-bytes.csproj.AssemblyReference.cache
+D:\programming\c#\ULearnProject\ReadonlyBytes\obj\Debug\hashes-readonly-bytes.csproj.SuggestedBindingRedirects.cache
+D:\programming\c#\ULearnProject\ReadonlyBytes\obj\Debug\hashes-readonly-bytes.csproj.CoreCompileInputs.cache
+D:\programming\c#\ULearnProject\ReadonlyBytes\bin\Debug\readonly-bytes.exe.config
+D:\programming\c#\ULearnProject\ReadonlyBytes\bin\Debug\readonly-bytes.exe
+D:\programming\c#\ULearnProject\ReadonlyBytes\bin\Debug\readonly-bytes.pdb
+D:\programming\c#\ULearnProject\ReadonlyBytes\bin\Debug\nunit.framework.dll
+D:\programming\c#\ULearnProject\ReadonlyBytes\bin\Debug\nunitlite.dll
+D:\programming\c#\ULearnProject\ReadonlyBytes\obj\Debug\hashes-readonly-bytes.csproj.CopyComplete
+D:\programming\c#\ULearnProject\ReadonlyBytes\obj\Debug\readonly-bytes.exe
+D:\programming\c#\ULearnProject\ReadonlyBytes\obj\Debug\readonly-bytes.pdb
